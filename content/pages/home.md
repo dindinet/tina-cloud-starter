@@ -18,9 +18,9 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/www.png
+      src: /uploads/tina-lg.png
       alt: Tina
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
